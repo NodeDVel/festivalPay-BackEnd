@@ -1,4 +1,4 @@
-# hanlight-backend-festivalPay
+# festivalFay-BackEnd
 
 ## 구동 시 필요사항
 
