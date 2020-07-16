@@ -1,4 +1,4 @@
-# festivalFay-Graphql-BackEnd
+# festivalFay-BackEnd
 
 ## 구동 시 필요사항
 
